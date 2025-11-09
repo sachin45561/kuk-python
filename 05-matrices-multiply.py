@@ -14,7 +14,7 @@ mat2 = [
 ]
 
 # Create an empty result matrix with zeros
-result = [[0 for _ in range(len(mat2[0]))] for _ in range(len(mat1))]
+result = [[0 for x in range(len(mat2[0]))] for y in range(len(mat1))]
 
 # Perform matrix multiplication
 for i in range(len(mat1)):            # Rows of mat1
