@@ -1,4 +1,4 @@
-# Function to compute GCD using the Euclidean algorithm
+# Write a program to compute the GCD of two numbers.
 def gcd(a, b):
     if a == 0 and b == 0:
         return None  # GCD undefined

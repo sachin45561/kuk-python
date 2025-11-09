@@ -52,6 +52,3 @@ print(h.isalnum())     # Output: True
 print(h.join(['H', 'E', 'L', 'L', 'O']))  # Output: HhelloEhelloLhelloLhelloO
 print(h.count('lo'))    # Output: 1 
 print(h.encode('utf-8'))  # Output: b'hello'
-print(h.expandtabs(4))  # Output: hello
-print(h.translate(str.maketrans('', '', 'aeiou')))  # Output: hll
-
