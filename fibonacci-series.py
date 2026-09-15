@@ -9,6 +9,7 @@ elif nterms == 1:
    print(n1)
 else:
    print("Fibonacci sequence:")
+   
    while count < nterms:
        print(n1)
        nextTerm = n1 + n2

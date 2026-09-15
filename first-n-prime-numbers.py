@@ -1,5 +1,4 @@
 # Write a program to find first n prime numbers
-
 n = int(input("Enter how many prime numbers you want: "))
 
 count = 0
