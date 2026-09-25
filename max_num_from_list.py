@@ -11,3 +11,8 @@ for num in numbers:
         maximum = num
 
 print("The maximum number in the list is:", maximum)
+
+#OR
+
+maximum = max(numbers)
+print("The maximum number in the list is:", maximum)
