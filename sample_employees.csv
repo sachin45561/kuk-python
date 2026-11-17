@@ -1,0 +1,11 @@
+Employee_ID,First_Name,Last_Name,Department,Role,City,Join_Date,Annual_Salary_INR,Performance_Rating,Active
+1001,Aarav,Sharma,Engineering,Software Engineer,Bengaluru,2022-03-15,1450000,4.5,True
+1002,Priya,Patel,Marketing,Marketing Manager,Mumbai,2021-07-01,1600000,4.2,True
+1003,Rohan,Verma,Finance,Financial Analyst,Delhi,2023-01-10,1150000,3.9,True
+1004,Ananya,Nair,Engineering,Senior DevOps Engineer,Hyderabad,2020-11-20,2100000,4.8,True
+1005,Vikram,Reddy,Sales,Account Executive,Pune,2022-08-05,1300000,4.1,True
+1006,Neha,Gupta,HR,HR Specialist,Bengaluru,2023-05-12,950000,4.0,True
+1007,Kabir,Mehta,Engineering,Data Scientist,Chennai,2021-09-18,1850000,4.7,True
+1008,Meera,Iyer,Product,Product Manager,Bengaluru,2020-04-22,2250000,4.6,True
+1009,Arjun,Kapoor,Sales,Sales Director,Mumbai,2019-06-30,2600000,4.4,True
+1010,Diya,Joshi,Marketing,Content Strategist,Delhi,2023-09-01,1050000,3.8,True
